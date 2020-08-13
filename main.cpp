@@ -5,6 +5,8 @@
 using namespace std;
 
 int main(){
+    Movie m;
+    Sale s;
 cout<<"Hello World"<<endl;
 
 return 0;
