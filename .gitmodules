@@ -1,0 +1,6 @@
+[submodule "moduleMovie"]
+	path = moduleMovie
+	url = https://github.com/RaulQT/moduleMovie.git
+[submodule "moduleSale"]
+	path = moduleSale
+	url = https://github.com/RaulQT/moduleSale.git
